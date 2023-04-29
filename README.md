@@ -7,6 +7,7 @@ FreshmenMMO: This is senior capstone work from my final semester in Extreme Prog
 The Timer Manager is used to manage all timers by working with our TimerTableDataGateway. The timer manager is what is used to schedule a command with a timestamp of when the timer is going to run out. Timers cannot be stopped so we leave the completion logic up to the area that scheduled the command.
 
 The messages were an exisiting functionality in the game that we changed to have a quiet flag to let the server know if we want this to go to all players or if we want to silence the message being sent. We also added the idea of a revelantplayerID this was added to ensure that we knew exactly who each message was relevant too. This functionality was used to create easter egg quests in later iterations that the player cannot see in the quest log but can be completed.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project 1: Aliens Vs Humans- Worked with a team of four to create a 2d turn based game using different design patterns learned in class. These design patterns include but are not limited to Singleton, Command, Adapter, Observer, and Factory.
