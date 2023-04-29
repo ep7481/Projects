@@ -2,10 +2,22 @@ Evan Paules
 Shippensburg University
 Software Engineer
 
-Project 1: Aliens Vs Humans- Worked with a team of 4 to create a game in java using many different design patterns and created a UI for the game
+FreshmenMMO: This is senior capstone work from my final semester in Extreme Programming. 
 
-Project 2: Database: Worked with a team of 4 to create a UI using JSwing to be compatable with our database we created using MySQL
+The Timer Manager is used to manage all timers by working with our TimerTableDataGateway. The timer manager is what is used to schedule a command with a timestamp of when the timer is going to run out. Timers cannot be stopped so we leave the completion logic up to the area that scheduled the command.
 
-project_1_X: Worked with a team of 5 to create an implementation for each type of inheritance single, class, and concrete. This project contains working Mappers, Data Transfer Objects, and Controllers. All SQL is written in with mySQL.
+The messages were an exisiting functionality in the game that we changed to have a quiet flag to let the server know if we want this to go to all players or if we want to silence the message being sent. We also added the idea of a revelantplayerID this was added to ensure that we knew exactly who each message was relevant too. This functionality was used to create easter egg quests in later iterations that the player cannot see in the quest log but can be completed.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Project 1: Aliens Vs Humans- Worked with a team of four to create a 2d turn based game using different design patterns learned in class. These design patterns include but are not limited to Singleton, Command, Adapter, Observer, and Factory.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 2: Database: Worked with a team of four to create a UI that can interact with JDBC to add, edit, and delete data from a database using MYSQL queries.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+project_1_X: Worked with a team of five to design and implement a large-scale database architecutre to store and manage and enterprise system. We demonstrated proficiency in data modeling and schema design for a large-scale system, including the use of MYSQL databases.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SWE 400 Space Invaders: This project is a simple game of space invaders that can be played from 2 different machines in different locations. We solved concurrency issues in the game using optimistic locking strategy's. 
