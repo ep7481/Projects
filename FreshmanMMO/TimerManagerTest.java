@@ -17,7 +17,7 @@ import static org.mockito.Mockito.verify;
 @GameTest("GameServer")
 @ResetModelFacade
 /**
- * @author Travis Ritter
+ * @author Travis Ritter, Seth Miller, and Evan Paules
  */
 public class TimerManagerTest
 {

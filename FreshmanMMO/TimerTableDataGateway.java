@@ -15,6 +15,9 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Date;
 
+/**
+ * @author Seth Miller, Travis Ritter, Evan Paules
+ */
 public class TimerTableDataGateway
 {
     /**
