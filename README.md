@@ -12,7 +12,7 @@ The messages were an exisiting functionality in the game that we changed to have
 
 Bed Shaker: This is another senior capstone work from my final semester in Interdisiplinary Developemnt.
 
-We worked as a team of five in a agile environment with a real client to create a mobile application that is going to used by people who are hard of hearing. During the development of this application we learned how to work with android services, fragments, shared prefrences, and the API of the shelly smart switch. The app can be used to connect with a Shelly Plus Plug US so that when the user recieves a text message on there phone from a certain sender with a certain keyword it will trigger the smart switch to enable a bed shaker to wake them up.
+We worked as a team of five in a agile environment with a real client to create a mobile application that is going to be used by people who are hard of hearing. During the development of this application we learned how to work with android services, fragments, shared prefrences, and the API of the shelly smart switch. The app can be used to connect with a Shelly Plus Plug US so that when the user recieves a text message on there phone from a certain sender with a certain keyword it will trigger the smart switch to enable a bed shaker to wake them up.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
